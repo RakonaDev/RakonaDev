@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 Soy un estudiante de Ingeniería en Sistemas Computacionales, llevo realizando proyectos web por 1 año.<br>✨ Me gusta aprender y poner en práctica nuevas tecnologías para ser más eficiente a la hora de codear.<br>😎 Estado de la cuente: Practicando Laravel y Angular. <br> 🟢 Disponible para trabajar
+🧑‍🎓 Soy un estudiante de Ingeniería en Sistemas Computacionales, llevo realizando proyectos web por 1 año.<br>✨ Me gusta aprender y poner en práctica nuevas tecnologías para ser más eficiente a la hora de codear.<br>😎 Estado de la cuenta: Practicando Laravel y Angular. <br> 🟢 Disponible para trabajar
 
 
 ## 🌐 Socials:
