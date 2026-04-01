@@ -99,8 +99,6 @@ Ecommerce  -> VTEX IO
 
 ## Extras
 
-```md
-<!-- Banner o GIF -->
 <p align="center">
 	<img src="TU_GIF_O_BANNER_AQUI" alt="banner" width="100%" />
 </p>
@@ -114,4 +112,3 @@ Ecommerce  -> VTEX IO
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakonaDev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
-```
