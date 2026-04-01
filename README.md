@@ -1,18 +1,117 @@
-# 💫 About Me:
-🧑‍🎓 Soy un estudiante de Ingeniería en Sistemas Computacionales, llevo realizando proyectos web por 1 año.<br>✨ Me gusta aprender y poner en práctica nuevas tecnologías para ser más eficiente a la hora de codear.<br>😎 Estado de la cuenta: Buscando un Trabajo. <br> 🟢 Disponible para trabajar
+<div align="center">
 
+# Juan Carlos Cajas
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/juancajas3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-cajas-oca%C3%B1a-98426b2a2/) 
+### Full Stack Developer
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RakonaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RakonaDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakonaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+	Desarrollo experiencias web modernas, backend solido y soluciones escalables con enfoque en producto, rendimiento y arquitectura.
+</p>
+
+<p>
+	<a href="TU_LINKEDIN_AQUI">LinkedIn</a>
+	•
+	<a href="TU_PORTAFOLIO_AQUI">Portafolio</a>
+	•
+	<a href="TU_BUMERAN_AQUI">Bumeran</a>
+	•
+	<a href="TU_BEHANCE_AQUI">Behance</a>
+	•
+	<a href="mailto:TU_CORREO_AQUI">Correo</a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RakonaDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre mi
+
+Soy desarrollador Full Stack y disfruto construir productos que combinan interfaces claras, logica robusta y una base tecnica lista para crecer. Me interesa trabajar con tecnologias modernas, mejorar procesos y convertir ideas en soluciones digitales bien pensadas.
+
+- 🚀 Enfocado en frontend, backend e integracion de servicios.
+- 🧠 Comodo trabajando con arquitecturas modernas y despliegues cloud.
+- 🎯 Interesado en proyectos donde importen tanto la experiencia de usuario como la calidad tecnica.
+- 💼 Disponible para trabajar y abierto a nuevas oportunidades profesionales.
+
+---
+
+## Stack principal
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-17212B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-1E1B4B?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Laravel](https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1020?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Java](https://img.shields.io/badge/Java-1C1917?style=for-the-badge&logo=openjdk&logoColor=EA580C)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![VTEX IO](https://img.shields.io/badge/VTEX_IO-111827?style=for-the-badge&logo=vtex&logoColor=white)
+
+</div>
+
+---
+
+## Lo que hago
+
+```text
+Frontend   -> React, Next.js, JavaScript, TypeScript
+Backend    -> Node.js, NestJS, Laravel, Spring Boot, Java
+Cloud      -> AWS, Docker, despliegues y servicios escalables
+Databases  -> MySQL, PostgreSQL
+Ecommerce  -> VTEX IO
+```
+
+---
+
+## Links importantes
+
+<table>
+	<tr>
+		<td><strong>LinkedIn</strong></td>
+		<td><a href="TU_LINKEDIN_AQUI">Agregar enlace</a></td>
+	</tr>
+	<tr>
+		<td><strong>Portafolio</strong></td>
+		<td><a href="TU_PORTAFOLIO_AQUI">Agregar enlace</a></td>
+	</tr>
+	<tr>
+		<td><strong>Bumeran</strong></td>
+		<td><a href="TU_BUMERAN_AQUI">Agregar enlace</a></td>
+	</tr>
+	<tr>
+		<td><strong>Behance</strong></td>
+		<td><a href="TU_BEHANCE_AQUI">Agregar enlace</a></td>
+	</tr>
+	<tr>
+		<td><strong>Correo</strong></td>
+		<td><a href="mailto:TU_CORREO_AQUI">TU_CORREO_AQUI</a></td>
+	</tr>
+</table>
+
+---
+
+## Extras
+
+```md
+<!-- Banner o GIF -->
+<p align="center">
+	<img src="TU_GIF_O_BANNER_AQUI" alt="banner" width="100%" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=RakonaDev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
+
+<!-- Lenguajes mas usados -->
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakonaDev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+```
