@@ -9,15 +9,13 @@
 </p>
 
 <p>
-	<a href="TU_LINKEDIN_AQUI">LinkedIn</a>
+	<a href="https://www.linkedin.com/in/juan-cajas-4a37b2345/">LinkedIn</a>
 	•
-	<a href="TU_PORTAFOLIO_AQUI">Portafolio</a>
+	<a href="https://juan-cajas-portfolio.netlify.app/">Portafolio</a>
 	•
-	<a href="TU_BUMERAN_AQUI">Bumeran</a>
+	<a href="https://www.behance.net/jcajasocania">Behance</a>
 	•
-	<a href="TU_BEHANCE_AQUI">Behance</a>
-	•
-	<a href="mailto:TU_CORREO_AQUI">Correo</a>
+	<a href="mailto:juancajas1905@gmail.com">Correo</a>
 </p>
 
 </div>
@@ -67,42 +65,10 @@ Cloud      -> AWS, Docker, despliegues y servicios escalables
 Databases  -> MySQL, PostgreSQL
 Ecommerce  -> VTEX IO
 ```
-
----
-
-## Links importantes
-
-<table>
-	<tr>
-		<td><strong>LinkedIn</strong></td>
-		<td><a href="TU_LINKEDIN_AQUI">Agregar enlace</a></td>
-	</tr>
-	<tr>
-		<td><strong>Portafolio</strong></td>
-		<td><a href="TU_PORTAFOLIO_AQUI">Agregar enlace</a></td>
-	</tr>
-	<tr>
-		<td><strong>Bumeran</strong></td>
-		<td><a href="TU_BUMERAN_AQUI">Agregar enlace</a></td>
-	</tr>
-	<tr>
-		<td><strong>Behance</strong></td>
-		<td><a href="TU_BEHANCE_AQUI">Agregar enlace</a></td>
-	</tr>
-	<tr>
-		<td><strong>Correo</strong></td>
-		<td><a href="mailto:TU_CORREO_AQUI">TU_CORREO_AQUI</a></td>
-	</tr>
-</table>
-
 ---
 
 ## GitHub Stats
 
 <p align="center">
 	<img src="https://streak-stats.demolab.com?user=RakonaDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakonaDev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
