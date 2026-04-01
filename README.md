@@ -100,7 +100,7 @@ Ecommerce  -> VTEX IO
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=RakonaDev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+	<img src="https://streak-stats.demolab.com?user=RakonaDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
 
 <p align="center">
